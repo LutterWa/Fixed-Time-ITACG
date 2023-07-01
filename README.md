@@ -1,4 +1,4 @@
-# 基于迁移-集成的时间约束计算制导算法
+# 固定时间收敛的时间角度约束计算制导方法
 ![Python 3.10](https://img.shields.io/badge/python-3.10-green.svg)
 
 1. 运行generator.py, 采集样本
